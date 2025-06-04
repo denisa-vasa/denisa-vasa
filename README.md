@@ -14,6 +14,8 @@
 - **HospitalApp-Android** – Hospital management app built in Android Studio
 - **Flight Booking System** – Console-based flight reservation system
 - **Library Management System** – Java-based CRUD application
+- **Test Automation with Selenium** – Automated UI testing using Selenium and Java
+- **Heart Disease Prediction** – Machine learning model in Python (Jupyter Notebook) to predict heart disease risk
 
 ## 🌱 Currently learning
 - Bash scripting
