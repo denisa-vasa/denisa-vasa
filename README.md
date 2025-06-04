@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**denisa-vasa/denisa-vasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science graduate with experience as a Linux technician and currently working in computer vision as a data annotator. I enjoy building clean, functional systems and expanding my knowledge through hands-on projects.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack:
+- Java, Spring Boot
+- Android Studio (Java/XML)
+- SQL, PostgreSQL
+- Git & GitHub
+- Linux, System administration
+- Basic Machine Learning (scikit-learn, pandas)
+  
+## 🛠️ Projects
+- **HospitalApp-Android** – Hospital management app built in Android Studio
+- **Flight Booking System** – Console-based flight reservation system
+- **Library Management System** – Java-based CRUD application
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+- Bash scripting
+- Python for machine learning
+
+  Feel free to explore my repositories.
